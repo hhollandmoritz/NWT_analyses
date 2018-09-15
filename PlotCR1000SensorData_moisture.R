@@ -74,6 +74,25 @@ for (i in 6:21) {
   DATETIME <- datetime
   DATETIME [ is.na(M5A)] <- NA
 
+  #quick and dirty QC
+  if (i == 8) {
+    maxVWC <- 0.55 
+  } else {
+    maxVWC <- 0.8
+  }
+  M5A[M5A < 0]   <- NA  
+  M5B[M5B < 0]   <- NA
+  M5C[M5C < 0]   <- NA
+  M30A[M30A < 0] <- NA
+  M30B[M30B < 0] <- NA
+  M30C[M30C < 0] <- NA
+  M5A[M5A > maxVWC]   <- NA  
+  M5B[M5B > maxVWC]   <- NA
+  M5C[M5C > maxVWC]   <- NA
+  M30A[M30A > maxVWC] <- NA
+  M30B[M30B > maxVWC] <- NA
+  M30C[M30C > maxVWC] <- NA
+  
   par(mfrow=c(1,1), mar=c(5,5,2,5))
   # no growing season data for #13, 17 19
   # values for 8 5a,5b make no sense
