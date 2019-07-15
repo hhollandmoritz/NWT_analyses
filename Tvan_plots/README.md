@@ -1,4 +1,4 @@
-***Scripts to analyze CLM4.5 results***
+**Scripts to analyze CLM4.5 results**
 
 Single point simulation at TVAN and vegetation communities across the Saddle at Niwot Ridge LTER.
 
