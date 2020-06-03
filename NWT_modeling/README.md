@@ -6,7 +6,7 @@ The broad goal of the work is to develop scripts and workflow to  more easily up
 Here's a space wehre we can keep track of what has been done and needs to be addressed.
 
 __Get familiar with CLM__
-- [ .] Set up single point case at Harvard forest
+- [ ] Set up single point case at Harvard forest
 - [ ] Run with CLM5 forcings, 
 - [ ] Run CLM5 with NEON data
 - [ ] Begin looking at output from SP and BGC simulations
