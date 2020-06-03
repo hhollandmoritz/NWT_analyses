@@ -8,7 +8,7 @@ Here's a space wehre we can keep track of what has been done and needs to be add
 __Get familiar with CLM__
 - [ ] Set up single point case at Harvard forest
 - [ ] Run with CLM5 forcings, then migrate to NEON data
-- [ ] Bening looking at output from SP and BGC simulations
+- [ ] Begin looking at output from SP and BGC simulations
 
 __Forcing data__ 
 - [ ] Run CLM5 w/ default (GSWP3  forcing for NWT grid)
