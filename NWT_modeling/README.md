@@ -9,7 +9,7 @@ __Forcing data__
 * Revisit and update data Tvan E & W tower data
 * Gapfill Tvan observations with data from other tower (when necessary)
 * Develop pipeline to bring in other measurements (Saddle precip, US-NR1 solar radiation, etc.)
-[] Run with NEON NIWO met data instead data (2018-2019 only).
+[ ] Run with NEON NIWO met data instead data (2018-2019 only).
 
 __Observational data__
 * Saddle snow grid
