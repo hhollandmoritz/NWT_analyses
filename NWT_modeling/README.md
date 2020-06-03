@@ -33,6 +33,7 @@ __Observational data for parameter file__
 - [ ] modify plant traits (leafCN, SLA, Medlyn slope).
 
 __Observational data for model evaluation__
+- [ ] Flux tower observations
 - [ ] Saddle snow grid
 - [ ] Saddle productivity
 - [ ] Sensor network
