@@ -12,8 +12,8 @@ __Get familiar with CLM__
 
 __Forcing data__ 
 - [ ] Run CLM5 w/ default (GSWP3  forcing for NWT grid)
-- [ ] Run CLM5 w/ NEON NIWO met data data (2018-2019 only)
 - [ ] Run CLM5 w/ Tvan  observations from 2008-2014, already formatted for  CLM.
+- [ ] Run CLM5 w/ NEON NIWO met data data (2018-2019 only)
 
 *Additional development that  we'd  need to develop to continue running w/ ongoing Tvan measurements*   
 - [ ] Revisit and update data Tvan E & W tower data
