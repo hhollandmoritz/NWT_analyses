@@ -26,6 +26,9 @@ __Observational data for surface dataset__
 - [ ] set vegetation to Arctic C3 grass, remove land use timeseries
 - [ ] modify soil texture / porosity (see Wieder et al. 2017 from Brooks et al. 1980)
 - [ ] modify soil depth for different vegetation communities (see Wieder et al. 2017 from Brooks et al. 1980)
+
+__More ideas__ 
+- [x] Try simulations with the hillslope model
 - [ ] modify LAI for SP simulations?
 
 __Observational data for parameter file__
