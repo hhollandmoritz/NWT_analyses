@@ -7,7 +7,8 @@ Here's a space wehre we can keep track of what has been done and needs to be add
 
 __Get familiar with CLM__
 - [ ] Set up single point case at Harvard forest
-- [ ] Run with CLM5 forcings, then migrate to NEON data
+- [ ] Run with CLM5 forcings, 
+- [ ] Run CLM5 with NEON data
 - [ ] Begin looking at output from SP and BGC simulations
 
 __Forcing data__ 
