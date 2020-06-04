@@ -7,6 +7,8 @@ Here's a space wehre we can keep track of what has been done and needs to be add
 
 __Get familiar with CLM__
 - [ ] Set up single point case at Harvard forest
+   - SP run went well with CLM5 forcings
+   - Still working on BGC run, spinup is giving me some issues.
 - [ ] Run with CLM5 forcings, 
 - [ ] Run CLM5 with NEON data
 - [ ] Begin looking at output from SP and BGC simulations
